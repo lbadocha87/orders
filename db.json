@@ -1,5 +1,4 @@
-{
-    
+{  
   "companies": [
     {
       "id": 1,
@@ -14,48 +13,46 @@
       "name": "Apple"
     }  
   ],
-    
-  "orsers": [
+"orders": [
       {
-          id: 1,
-          companyId: 1,
-          amount: 100
+          "id": 1,
+          "companyId": 1,
+          "amount": 100
       },
       {
-          id: 2,
-          companyId: 1,
-          amount: 600
+          "id": 2,
+          "companyId": 1,
+          "amount": 600
       },
       {
-          id: 3,
-          companyId: 2,
-          amount: 1200
+          "id": 3,
+          "companyId": 2,
+          "amount": 1200
       },
       {
-          id: 4,
-          companyId: 2,
-          amount: 800
+          "id": 4,
+          "companyId": 2,
+          "amount": 800
       },
       {
-          id: 5,
-          companyId: 2,
-          amount: 450
+          "id": 5,
+          "companyId": 2,
+          "amount": 450
       },
       {
-          id: 6,
-          companyId: 3,
-          amount: 1000
+          "id": 6,
+          "companyId": 3,
+          "amount": 1000
       },
       {
-          id: 7,
-          companyId: 3,
-          amount: 360
+          "id": 7,
+          "companyId": 3,
+          "amount": 360
       },
       {
-          id: 8,
-          companyId: 3,
-          amount: 628
-      }
-      
+          "id": 8,
+          "companyId": 3,
+          "amount": 628
+      }   
   ]
 }

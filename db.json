@@ -53,6 +53,11 @@
           "id": 8,
           "companyId": 3,
           "amount": 628
-      }   
+      },
+        {
+          "id": 9,
+          "companyId": 1,
+          "amount": 66
+      }
   ]
 }

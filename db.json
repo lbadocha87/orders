@@ -15,7 +15,11 @@
     {
       "id": 4,
       "name": "Januszex"
-    } 
+    },
+    {
+      "id": 5,
+      "name": "Mirpol"
+    }
   ],
 "orders": [
       {
@@ -62,6 +66,21 @@
           "id": 9,
           "companyId": 1,
           "amount": 66
+      },
+      {
+          "id": 10,
+          "companyId": 5,
+          "amount": 300
+      },
+      {
+          "id": 11,
+          "companyId": 5,
+          "amount": 250
+      },
+      {
+          "id": 12,
+          "companyId": 2,
+          "amount": 99
       }
   ]
 }
